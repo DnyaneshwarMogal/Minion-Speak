@@ -10,11 +10,9 @@ html {
   background-size: cover;
 }
 
-h1 {
+header {
   text-align: center;
-  font-size: 3rem;
+  margin: 0;
   background-color: #f5e050;
-  color: #5e88ff;
-  margin-top: 0;
-  padding: 1rem 0;
+  padding: 1rem;
 }
