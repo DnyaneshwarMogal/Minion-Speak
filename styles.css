@@ -10,10 +10,11 @@ html {
   background-size: cover;
 }
 
-header {
+h1 {
   text-align: center;
-  margin: 0;
+  font-size: 48px;
   background-color: #f5e050;
-  /* color: #5E88FF; */
-  padding: 1rem;
+  color: #5e88ff;
+  margin-top: 0;
+  padding: 16px 0;
 }
