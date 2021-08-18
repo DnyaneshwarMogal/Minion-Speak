@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 
 html {
@@ -44,4 +45,32 @@ textarea {
   box-shadow: 0 0 10px 2px;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  background-color: #f5e050;
+  color: #5e88ff;
+  margin-top: 25px;
+  padding: 0 10px;
+  margin-bottom: 0;
+}
+
+.about {
+  max-width: 450px;
+  padding-bottom: 0.2rem;
+  padding-top: 5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-size: 30px;
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+  margin: 2px;
 }
